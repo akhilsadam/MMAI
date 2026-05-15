@@ -1,0 +1,9 @@
+# hw5
+
+We explore agents with memory and how to build and test a multimodal agent with persistent memory.
+Performance is highly dependent on the model, so not great, but still fun to play with:
+
+![](hw5/ChatSession1.png)
+![](hw5/ChatSession2&3.png)
+
+maybe it's better called ForgetfulAgent.
