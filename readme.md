@@ -11,6 +11,7 @@ A short description of the assignments follow:
 - `hw1`: We generate three sample flows and try to identify local PCA features with a TSNE transformation
 - `hw2`: We investigate fusion and alignment between high and low-resolution fields, and local vs global representations in a diffusion model for one of the flows.
 - `hw3`: We investigate finetuning a Qwen VLM to find the simulation time of the PDE and intrinsic dimension, or roughly where it is located in the low-dimensional manifold.
-
+- `hw4`: We repeat the exploration in `hw3` with GRPO based RL and find better performance.
+- `hw5`: We build a multimodal agent with persistent memory.
 
 All code is available under the MIT License. The remainder of ideas and results are reserved to the authors.
