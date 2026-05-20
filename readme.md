@@ -13,5 +13,6 @@ A short description of the assignments follow:
 - `hw3`: We investigate finetuning a Qwen VLM to find the simulation time of the PDE and intrinsic dimension, or roughly where it is located in the low-dimensional manifold.
 - `hw4`: We repeat the exploration in `hw3` with GRPO based RL and find better performance.
 - `hw5`: We build a multimodal agent with persistent memory.
+- `final`: We investigate symbolic PDE conditioning in the context of conditional flow-matching surrogate models (please read **NeurIPS_MMAI_26_final.pdf**)!
 
 All code is available under the MIT License. The remainder of ideas and results are reserved to the authors.
